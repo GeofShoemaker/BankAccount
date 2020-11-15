@@ -1,0 +1,1 @@
+This is my bank account program. It is fully compliant with the federal bank account standards (and by federal standards I mean Joi's standards, close enough tho). Sorry this didn't have 5 commits, I did it all at once just now and so I didn't really worry about the commits :/. Anywho, enjoy the program brought to you by yours truly.
